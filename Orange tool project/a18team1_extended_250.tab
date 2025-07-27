@@ -1,0 +1,251 @@
+CGPA	Age	Gender 	Education Level 	Field Study 	Preferred Study Environment 	Usage of Digital Study Resources 	Participate in Extracurricular Activities 	Time spend on social media per day 	Class Attendance Percentage 	Full name
+6.0 6.9 7.0 7.6 7.9 8.0 8.2 8.3 8.5 8.6 9.0 9.5 9.7 10.0	continuous	Female Male	High\ school Others Post\ Graduated Under\ Graduated	Arts Commerce Engineering Medicine Others	Group\ study Library Others Outdoors Quiet\ room	No Yes	No Yes	Less\ then\ 1\ hour More\ than\ 1\ hour More\ than\ 2\ hours More\ than\ 3\ hours More\ than\ 4\ hours	Less\ than\ 70 Less\ than\ 80 Less\ than\ 90 More\ than\ 90	A.Afreen A.sivanagaraju Anand\ babu Anushka Aravind B.\ lakshmi Bhanu\ parakesh Bhaveeth Brama\ teja C.Sai\ kunar Ch.Mahalakshmi Ch.Nageswararao Chandra\ Sekhar Chinnu Deepu G.Dhanesh Gayathri Gopi Hari Jilleti\ jillaraj Jyoshmitha Jyoshna Kaayadhu Krithi\ shetty Lakshmi Leela M.Shiva\ sankar Madhu\ teja Mahesh Manohar Modhitha Mohan\ chandu Mokshaa Pandu Ponnuru\ Babu Prabhas Prakash\ rao Radhya Rajini Sai\ pallavi Sarika Snigdha Srilela Swami Vani Vasu Vihaa Vihan Vijay Vijju Vinay Zilla\ Babu Zilleti\ Zilla\ Raj
+class										
+8.0	20	Male	Under Graduated	Engineering	Quiet room	Yes	No	More than 2 hours	Less than 90	Ch.Nageswararao
+8.0	20	Male	Under Graduated	Engineering	Library	Yes	Yes	More than 1 hour	More than 90	Vasu
+9.0	21	Male	High school	Commerce	Quiet room	Yes	Yes	More than 2 hours	Less than 70	Pandu
+9.0	20	Male	Post Graduated	Engineering	Library	No	No	More than 1 hour	Less than 90	Swami
+7.0	19	Female	Under Graduated	Arts	Quiet room	Yes	Yes	More than 2 hours	Less than 80	Vijju
+10.0	20	Female	Under Graduated	Engineering	Group study	Yes	No	More than 3 hours	Less than 80	Vani
+9.0	21	Male	High school	Arts	Quiet room	Yes	Yes	More than 3 hours	Less than 80	Vijay
+8.0	20	Male	Under Graduated	Arts	Library	Yes	Yes	More than 1 hour	Less than 90	Aravind
+9.0	21	Male	Under Graduated	Engineering	Outdoors	Yes	Yes	More than 4 hours	Less than 70	Zilleti Zilla Raj
+7.0	21	Male	Post Graduated	Commerce	Quiet room	Yes	Yes	More than 2 hours	More than 90	Gopi
+6.0	21	Male	Under Graduated	Engineering	Group study	Yes	No	More than 2 hours	Less than 80	Hari
+9.0	21	Female	Under Graduated	Engineering	Library	Yes	Yes	More than 4 hours	Less than 80	Sai pallavi
+8.0	21	Female	Under Graduated	Commerce	Library	Yes	Yes	Less then 1 hour	Less than 70	Krithi shetty
+9.0	21	Male	High school	Engineering	Group study	Yes	No	More than 1 hour	Less than 80	A.sivanagaraju
+8.0	23	Female	Post Graduated	Medicine	Outdoors	Yes	Yes	More than 4 hours	Less than 90	Srilela
+8.0	19	Female	Under Graduated	Medicine	Quiet room	Yes	Yes	More than 4 hours	Less than 80	Ch.Mahalakshmi
+7.0	20	Female	Post Graduated	Arts	Quiet room	Yes	Yes	More than 1 hour	Less than 70	Anushka
+9.5	21	Male	Post Graduated	Commerce	Outdoors	Yes	Yes	More than 3 hours	Less than 90	G.Dhanesh
+9.0	44	Male	Under Graduated	Engineering	Group study	Yes	Yes	More than 1 hour	Less than 70	Prabhas
+8.6	21	Female	Post Graduated	Medicine	Library	Yes	Yes	More than 3 hours	Less than 70	A.Afreen
+7.6	22	Male	Post Graduated	Engineering		No	No	More than 3 hours	Less than 90	M.Shiva sankar
+8.3	18	Male	High school	Arts			No	More than 3 hours	Less than 80	C.Sai kunar
+9.0	69	Female	Others	Others	Others	Yes	Yes	More than 4 hours	Less than 70	Zilla Babu
+7.0	21	Male	Under Graduated	Engineering	Outdoors	Yes	Yes	More than 4 hours	More than 90	Ponnuru Babu
+8.5	20	Male	High school	Commerce	Quiet room	Yes	Yes	More than 2 hours	Less than 70	Jilleti jillaraj
+7.0	20	Female	Under Graduated	Engineering	Library	Yes	Yes	More than 3 hours	Less than 80	Jyoshmitha
+9.0	20	Male	Post Graduated	Commerce	Group study	Yes	No	More than 2 hours	Less than 90	Vinay
+8.0	21	Male	Under Graduated	Medicine	Outdoors	No	Yes	More than 3 hours	Less than 80	Leela
+9.0	25	Female	Post Graduated	Others	Quiet room	No	Yes	Less then 1 hour	More than 90	Gayathri
+6.0	26	Male	Post Graduated	Medicine	Group study	Yes	No	More than 4 hours	Less than 80	Mahesh
+8.0	19	Male	Under Graduated	Others	Quiet room	No	No	More than 1 hour	Less than 90	Mohan chandu
+7.9	19	Female	Under Graduated	Medicine		No	Yes	More than 2 hours	Less than 70	Lakshmi
+8.0	22	Female	High school	Others	Group study	No	No	More than 2 hours	Less than 80	Pandu
+7.0	30	Female	Post Graduated	Commerce	Library	Yes	Yes	More than 3 hours	Less than 80	B. lakshmi
+9.5	23	Male	Post Graduated	Engineering	Group study		Yes	Less then 1 hour	More than 90	Bhanu parakesh
+6.0	30	Female	Post Graduated	Arts	Outdoors	No	Yes	More than 2 hours	Less than 80	Rajini
+9.7	15	Male	High school	Others	Quiet room	Yes	Yes	More than 4 hours	More than 90	Chandra Sekhar
+8.5	16	Male	High school	Others	Outdoors		No	More than 4 hours	Less than 90	Anand babu
+8.0	35	Male	Post Graduated	Others	Others	No	Yes	More than 2 hours	Less than 80	Prakash rao
+8.0	22	Male	Under Graduated	Medicine	Group study	No	No	More than 1 hour	Less than 90	Chinnu
+8.3	14	Female	High school	Others			Yes	More than 1 hour	Less than 80	Snigdha
+8.0	19	Female	High school	Others	Outdoors	Yes	No	More than 2 hours	Less than 80	Vihaa
+9.0	20	Male	Under Graduated	Engineering	Outdoors	Yes	Yes	More than 3 hours	Less than 90	Vihan
+8.0	20	Female	Others	Medicine	Group study	Yes	No	More than 2 hours	More than 90	Jyoshna
+6.9	16	Male	Under Graduated	Others		Yes	No	More than 4 hours	Less than 80	Brama teja
+9.5	23	Male	Post Graduated	Medicine	Group study		No	More than 3 hours	More than 90	Madhu teja
+7.0	22	Female	Others	Medicine	Library	Yes	No	More than 2 hours	Less than 80	Radhya
+8.2	25	Male	Post Graduated	Commerce			No	More than 4 hours	Less than 90	Manohar
+8.0	25	Female	Post Graduated	Medicine	Library	Yes	Yes	More than 1 hour	Less than 80	Modhitha
+8.5	19	Female	Under Graduated	Arts	Outdoors		No	More than 4 hours	Less than 80	Sarika
+6.0	28	Male	Post Graduated	Commerce	Outdoors	No	Yes	More than 1 hour	Less than 70	Mokshaa
+7.0	22	Male	Post Graduated	Commerce	Library	No	No	More than 4 hours	Less than 90	Bhaveeth
+8.0	29	Female	Others	Others	Group study	No	No	More than 4 hours	Less than 90	Deepu
+9.0	30	Female	Post Graduated	Engineering	Outdoors	Yes	Yes	More than 4 hours	Less than 90	Kaayadhu
+8.0	20	Male	Under Graduated	Engineering	Quiet room	Yes	No	More than 2 hours	Less than 90	Ch.Nageswararao
+8.0	20	Male	Under Graduated	Engineering	Library	Yes	Yes	More than 1 hour	More than 90	Vasu
+9.0	21	Male	High school	Commerce	Quiet room	Yes	Yes	More than 2 hours	Less than 70	Pandu
+9.0	20	Male	Post Graduated	Engineering	Library	No	No	More than 1 hour	Less than 90	Swami
+7.0	19	Female	Under Graduated	Arts	Quiet room	Yes	Yes	More than 2 hours	Less than 80	Vijju
+10.0	20	Female	Under Graduated	Engineering	Group study	Yes	No	More than 3 hours	Less than 80	Vani
+9.0	21	Male	High school	Arts	Quiet room	Yes	Yes	More than 3 hours	Less than 80	Vijay
+8.0	20	Male	Under Graduated	Arts	Library	Yes	Yes	More than 1 hour	Less than 90	Aravind
+9.0	21	Male	Under Graduated	Engineering	Outdoors	Yes	Yes	More than 4 hours	Less than 70	Zilleti Zilla Raj
+7.0	21	Male	Post Graduated	Commerce	Quiet room	Yes	Yes	More than 2 hours	More than 90	Gopi
+6.0	21	Male	Under Graduated	Engineering	Group study	Yes	No	More than 2 hours	Less than 80	Hari
+9.0	21	Female	Under Graduated	Engineering	Library	Yes	Yes	More than 4 hours	Less than 80	Sai pallavi
+8.0	21	Female	Under Graduated	Commerce	Library	Yes	Yes	Less then 1 hour	Less than 70	Krithi shetty
+9.0	21	Male	High school	Engineering	Group study	Yes	No	More than 1 hour	Less than 80	A.sivanagaraju
+8.0	23	Female	Post Graduated	Medicine	Outdoors	Yes	Yes	More than 4 hours	Less than 90	Srilela
+8.0	19	Female	Under Graduated	Medicine	Quiet room	Yes	Yes	More than 4 hours	Less than 80	Ch.Mahalakshmi
+7.0	20	Female	Post Graduated	Arts	Quiet room	Yes	Yes	More than 1 hour	Less than 70	Anushka
+9.5	21	Male	Post Graduated	Commerce	Outdoors	Yes	Yes	More than 3 hours	Less than 90	G.Dhanesh
+9.0	44	Male	Under Graduated	Engineering	Group study	Yes	Yes	More than 1 hour	Less than 70	Prabhas
+8.6	21	Female	Post Graduated	Medicine	Library	Yes	Yes	More than 3 hours	Less than 70	A.Afreen
+7.6	22	Male	Post Graduated	Engineering		No	No	More than 3 hours	Less than 90	M.Shiva sankar
+8.3	18	Male	High school	Arts			No	More than 3 hours	Less than 80	C.Sai kunar
+9.0	69	Female	Others	Others	Others	Yes	Yes	More than 4 hours	Less than 70	Zilla Babu
+7.0	21	Male	Under Graduated	Engineering	Outdoors	Yes	Yes	More than 4 hours	More than 90	Ponnuru Babu
+8.5	20	Male	High school	Commerce	Quiet room	Yes	Yes	More than 2 hours	Less than 70	Jilleti jillaraj
+7.0	20	Female	Under Graduated	Engineering	Library	Yes	Yes	More than 3 hours	Less than 80	Jyoshmitha
+9.0	20	Male	Post Graduated	Commerce	Group study	Yes	No	More than 2 hours	Less than 90	Vinay
+8.0	21	Male	Under Graduated	Medicine	Outdoors	No	Yes	More than 3 hours	Less than 80	Leela
+9.0	25	Female	Post Graduated	Others	Quiet room	No	Yes	Less then 1 hour	More than 90	Gayathri
+6.0	26	Male	Post Graduated	Medicine	Group study	Yes	No	More than 4 hours	Less than 80	Mahesh
+8.0	19	Male	Under Graduated	Others	Quiet room	No	No	More than 1 hour	Less than 90	Mohan chandu
+7.9	19	Female	Under Graduated	Medicine		No	Yes	More than 2 hours	Less than 70	Lakshmi
+8.0	22	Female	High school	Others	Group study	No	No	More than 2 hours	Less than 80	Pandu
+7.0	30	Female	Post Graduated	Commerce	Library	Yes	Yes	More than 3 hours	Less than 80	B. lakshmi
+9.5	23	Male	Post Graduated	Engineering	Group study		Yes	Less then 1 hour	More than 90	Bhanu parakesh
+6.0	30	Female	Post Graduated	Arts	Outdoors	No	Yes	More than 2 hours	Less than 80	Rajini
+9.7	15	Male	High school	Others	Quiet room	Yes	Yes	More than 4 hours	More than 90	Chandra Sekhar
+8.5	16	Male	High school	Others	Outdoors		No	More than 4 hours	Less than 90	Anand babu
+8.0	35	Male	Post Graduated	Others	Others	No	Yes	More than 2 hours	Less than 80	Prakash rao
+8.0	22	Male	Under Graduated	Medicine	Group study	No	No	More than 1 hour	Less than 90	Chinnu
+8.3	14	Female	High school	Others			Yes	More than 1 hour	Less than 80	Snigdha
+8.0	19	Female	High school	Others	Outdoors	Yes	No	More than 2 hours	Less than 80	Vihaa
+9.0	20	Male	Under Graduated	Engineering	Outdoors	Yes	Yes	More than 3 hours	Less than 90	Vihan
+8.0	20	Female	Others	Medicine	Group study	Yes	No	More than 2 hours	More than 90	Jyoshna
+6.9	16	Male	Under Graduated	Others		Yes	No	More than 4 hours	Less than 80	Brama teja
+9.5	23	Male	Post Graduated	Medicine	Group study		No	More than 3 hours	More than 90	Madhu teja
+7.0	22	Female	Others	Medicine	Library	Yes	No	More than 2 hours	Less than 80	Radhya
+8.2	25	Male	Post Graduated	Commerce			No	More than 4 hours	Less than 90	Manohar
+8.0	25	Female	Post Graduated	Medicine	Library	Yes	Yes	More than 1 hour	Less than 80	Modhitha
+8.5	19	Female	Under Graduated	Arts	Outdoors		No	More than 4 hours	Less than 80	Sarika
+6.0	28	Male	Post Graduated	Commerce	Outdoors	No	Yes	More than 1 hour	Less than 70	Mokshaa
+7.0	22	Male	Post Graduated	Commerce	Library	No	No	More than 4 hours	Less than 90	Bhaveeth
+8.0	29	Female	Others	Others	Group study	No	No	More than 4 hours	Less than 90	Deepu
+9.0	30	Female	Post Graduated	Engineering	Outdoors	Yes	Yes	More than 4 hours	Less than 90	Kaayadhu
+8.0	20	Male	Under Graduated	Engineering	Quiet room	Yes	No	More than 2 hours	Less than 90	Ch.Nageswararao
+8.0	20	Male	Under Graduated	Engineering	Library	Yes	Yes	More than 1 hour	More than 90	Vasu
+9.0	21	Male	High school	Commerce	Quiet room	Yes	Yes	More than 2 hours	Less than 70	Pandu
+9.0	20	Male	Post Graduated	Engineering	Library	No	No	More than 1 hour	Less than 90	Swami
+7.0	19	Female	Under Graduated	Arts	Quiet room	Yes	Yes	More than 2 hours	Less than 80	Vijju
+10.0	20	Female	Under Graduated	Engineering	Group study	Yes	No	More than 3 hours	Less than 80	Vani
+9.0	21	Male	High school	Arts	Quiet room	Yes	Yes	More than 3 hours	Less than 80	Vijay
+8.0	20	Male	Under Graduated	Arts	Library	Yes	Yes	More than 1 hour	Less than 90	Aravind
+9.0	21	Male	Under Graduated	Engineering	Outdoors	Yes	Yes	More than 4 hours	Less than 70	Zilleti Zilla Raj
+7.0	21	Male	Post Graduated	Commerce	Quiet room	Yes	Yes	More than 2 hours	More than 90	Gopi
+6.0	21	Male	Under Graduated	Engineering	Group study	Yes	No	More than 2 hours	Less than 80	Hari
+9.0	21	Female	Under Graduated	Engineering	Library	Yes	Yes	More than 4 hours	Less than 80	Sai pallavi
+8.0	21	Female	Under Graduated	Commerce	Library	Yes	Yes	Less then 1 hour	Less than 70	Krithi shetty
+9.0	21	Male	High school	Engineering	Group study	Yes	No	More than 1 hour	Less than 80	A.sivanagaraju
+8.0	23	Female	Post Graduated	Medicine	Outdoors	Yes	Yes	More than 4 hours	Less than 90	Srilela
+8.0	19	Female	Under Graduated	Medicine	Quiet room	Yes	Yes	More than 4 hours	Less than 80	Ch.Mahalakshmi
+7.0	20	Female	Post Graduated	Arts	Quiet room	Yes	Yes	More than 1 hour	Less than 70	Anushka
+9.5	21	Male	Post Graduated	Commerce	Outdoors	Yes	Yes	More than 3 hours	Less than 90	G.Dhanesh
+9.0	44	Male	Under Graduated	Engineering	Group study	Yes	Yes	More than 1 hour	Less than 70	Prabhas
+8.6	21	Female	Post Graduated	Medicine	Library	Yes	Yes	More than 3 hours	Less than 70	A.Afreen
+7.6	22	Male	Post Graduated	Engineering		No	No	More than 3 hours	Less than 90	M.Shiva sankar
+8.3	18	Male	High school	Arts			No	More than 3 hours	Less than 80	C.Sai kunar
+9.0	69	Female	Others	Others	Others	Yes	Yes	More than 4 hours	Less than 70	Zilla Babu
+7.0	21	Male	Under Graduated	Engineering	Outdoors	Yes	Yes	More than 4 hours	More than 90	Ponnuru Babu
+8.5	20	Male	High school	Commerce	Quiet room	Yes	Yes	More than 2 hours	Less than 70	Jilleti jillaraj
+7.0	20	Female	Under Graduated	Engineering	Library	Yes	Yes	More than 3 hours	Less than 80	Jyoshmitha
+9.0	20	Male	Post Graduated	Commerce	Group study	Yes	No	More than 2 hours	Less than 90	Vinay
+8.0	21	Male	Under Graduated	Medicine	Outdoors	No	Yes	More than 3 hours	Less than 80	Leela
+9.0	25	Female	Post Graduated	Others	Quiet room	No	Yes	Less then 1 hour	More than 90	Gayathri
+6.0	26	Male	Post Graduated	Medicine	Group study	Yes	No	More than 4 hours	Less than 80	Mahesh
+8.0	19	Male	Under Graduated	Others	Quiet room	No	No	More than 1 hour	Less than 90	Mohan chandu
+7.9	19	Female	Under Graduated	Medicine		No	Yes	More than 2 hours	Less than 70	Lakshmi
+8.0	22	Female	High school	Others	Group study	No	No	More than 2 hours	Less than 80	Pandu
+7.0	30	Female	Post Graduated	Commerce	Library	Yes	Yes	More than 3 hours	Less than 80	B. lakshmi
+9.5	23	Male	Post Graduated	Engineering	Group study		Yes	Less then 1 hour	More than 90	Bhanu parakesh
+6.0	30	Female	Post Graduated	Arts	Outdoors	No	Yes	More than 2 hours	Less than 80	Rajini
+9.7	15	Male	High school	Others	Quiet room	Yes	Yes	More than 4 hours	More than 90	Chandra Sekhar
+8.5	16	Male	High school	Others	Outdoors		No	More than 4 hours	Less than 90	Anand babu
+8.0	35	Male	Post Graduated	Others	Others	No	Yes	More than 2 hours	Less than 80	Prakash rao
+8.0	22	Male	Under Graduated	Medicine	Group study	No	No	More than 1 hour	Less than 90	Chinnu
+8.0	20	Male	Under Graduated	Engineering	Quiet room	Yes	No	More than 2 hours	Less than 90	Ch.Nageswararao
+8.0	20	Male	Under Graduated	Engineering	Library	Yes	Yes	More than 1 hour	More than 90	Vasu
+9.0	21	Male	High school	Commerce	Quiet room	Yes	Yes	More than 2 hours	Less than 70	Pandu
+9.0	20	Male	Post Graduated	Engineering	Library	No	No	More than 1 hour	Less than 90	Swami
+7.0	19	Female	Under Graduated	Arts	Quiet room	Yes	Yes	More than 2 hours	Less than 80	Vijju
+10.0	20	Female	Under Graduated	Engineering	Group study	Yes	No	More than 3 hours	Less than 80	Vani
+9.0	21	Male	High school	Arts	Quiet room	Yes	Yes	More than 3 hours	Less than 80	Vijay
+8.0	20	Male	Under Graduated	Arts	Library	Yes	Yes	More than 1 hour	Less than 90	Aravind
+9.0	21	Male	Under Graduated	Engineering	Outdoors	Yes	Yes	More than 4 hours	Less than 70	Zilleti Zilla Raj
+7.0	21	Male	Post Graduated	Commerce	Quiet room	Yes	Yes	More than 2 hours	More than 90	Gopi
+6.0	21	Male	Under Graduated	Engineering	Group study	Yes	No	More than 2 hours	Less than 80	Hari
+9.0	21	Female	Under Graduated	Engineering	Library	Yes	Yes	More than 4 hours	Less than 80	Sai pallavi
+8.0	21	Female	Under Graduated	Commerce	Library	Yes	Yes	Less then 1 hour	Less than 70	Krithi shetty
+9.0	21	Male	High school	Engineering	Group study	Yes	No	More than 1 hour	Less than 80	A.sivanagaraju
+8.0	23	Female	Post Graduated	Medicine	Outdoors	Yes	Yes	More than 4 hours	Less than 90	Srilela
+8.0	19	Female	Under Graduated	Medicine	Quiet room	Yes	Yes	More than 4 hours	Less than 80	Ch.Mahalakshmi
+7.0	20	Female	Post Graduated	Arts	Quiet room	Yes	Yes	More than 1 hour	Less than 70	Anushka
+9.5	21	Male	Post Graduated	Commerce	Outdoors	Yes	Yes	More than 3 hours	Less than 90	G.Dhanesh
+9.0	44	Male	Under Graduated	Engineering	Group study	Yes	Yes	More than 1 hour	Less than 70	Prabhas
+8.6	21	Female	Post Graduated	Medicine	Library	Yes	Yes	More than 3 hours	Less than 70	A.Afreen
+7.6	22	Male	Post Graduated	Engineering		No	No	More than 3 hours	Less than 90	M.Shiva sankar
+8.3	18	Male	High school	Arts			No	More than 3 hours	Less than 80	C.Sai kunar
+9.0	69	Female	Others	Others	Others	Yes	Yes	More than 4 hours	Less than 70	Zilla Babu
+7.0	21	Male	Under Graduated	Engineering	Outdoors	Yes	Yes	More than 4 hours	More than 90	Ponnuru Babu
+8.5	20	Male	High school	Commerce	Quiet room	Yes	Yes	More than 2 hours	Less than 70	Jilleti jillaraj
+7.0	20	Female	Under Graduated	Engineering	Library	Yes	Yes	More than 3 hours	Less than 80	Jyoshmitha
+9.0	20	Male	Post Graduated	Commerce	Group study	Yes	No	More than 2 hours	Less than 90	Vinay
+8.0	21	Male	Under Graduated	Medicine	Outdoors	No	Yes	More than 3 hours	Less than 80	Leela
+9.0	25	Female	Post Graduated	Others	Quiet room	No	Yes	Less then 1 hour	More than 90	Gayathri
+6.0	26	Male	Post Graduated	Medicine	Group study	Yes	No	More than 4 hours	Less than 80	Mahesh
+8.0	19	Male	Under Graduated	Others	Quiet room	No	No	More than 1 hour	Less than 90	Mohan chandu
+7.9	19	Female	Under Graduated	Medicine		No	Yes	More than 2 hours	Less than 70	Lakshmi
+8.0	22	Female	High school	Others	Group study	No	No	More than 2 hours	Less than 80	Pandu
+7.0	30	Female	Post Graduated	Commerce	Library	Yes	Yes	More than 3 hours	Less than 80	B. lakshmi
+9.5	23	Male	Post Graduated	Engineering	Group study		Yes	Less then 1 hour	More than 90	Bhanu parakesh
+6.0	30	Female	Post Graduated	Arts	Outdoors	No	Yes	More than 2 hours	Less than 80	Rajini
+9.7	15	Male	High school	Others	Quiet room	Yes	Yes	More than 4 hours	More than 90	Chandra Sekhar
+8.5	16	Male	High school	Others	Outdoors		No	More than 4 hours	Less than 90	Anand babu
+8.0	35	Male	Post Graduated	Others	Others	No	Yes	More than 2 hours	Less than 80	Prakash rao
+8.0	22	Male	Under Graduated	Medicine	Group study	No	No	More than 1 hour	Less than 90	Chinnu
+8.3	14	Female	High school	Others			Yes	More than 1 hour	Less than 80	Snigdha
+8.0	19	Female	High school	Others	Outdoors	Yes	No	More than 2 hours	Less than 80	Vihaa
+9.0	20	Male	Under Graduated	Engineering	Outdoors	Yes	Yes	More than 3 hours	Less than 90	Vihan
+8.0	20	Female	Others	Medicine	Group study	Yes	No	More than 2 hours	More than 90	Jyoshna
+6.9	16	Male	Under Graduated	Others		Yes	No	More than 4 hours	Less than 80	Brama teja
+9.5	23	Male	Post Graduated	Medicine	Group study		No	More than 3 hours	More than 90	Madhu teja
+7.0	22	Female	Others	Medicine	Library	Yes	No	More than 2 hours	Less than 80	Radhya
+8.2	25	Male	Post Graduated	Commerce			No	More than 4 hours	Less than 90	Manohar
+8.0	25	Female	Post Graduated	Medicine	Library	Yes	Yes	More than 1 hour	Less than 80	Modhitha
+8.5	19	Female	Under Graduated	Arts	Outdoors		No	More than 4 hours	Less than 80	Sarika
+6.0	28	Male	Post Graduated	Commerce	Outdoors	No	Yes	More than 1 hour	Less than 70	Mokshaa
+7.0	22	Male	Post Graduated	Commerce	Library	No	No	More than 4 hours	Less than 90	Bhaveeth
+8.0	29	Female	Others	Others	Group study	No	No	More than 4 hours	Less than 90	Deepu
+9.0	30	Female	Post Graduated	Engineering	Outdoors	Yes	Yes	More than 4 hours	Less than 90	Kaayadhu
+8.0	20	Male	Under Graduated	Engineering	Quiet room	Yes	No	More than 2 hours	Less than 90	Ch.Nageswararao
+8.0	20	Male	Under Graduated	Engineering	Library	Yes	Yes	More than 1 hour	More than 90	Vasu
+9.0	21	Male	High school	Commerce	Quiet room	Yes	Yes	More than 2 hours	Less than 70	Pandu
+9.0	20	Male	Post Graduated	Engineering	Library	No	No	More than 1 hour	Less than 90	Swami
+7.0	19	Female	Under Graduated	Arts	Quiet room	Yes	Yes	More than 2 hours	Less than 80	Vijju
+10.0	20	Female	Under Graduated	Engineering	Group study	Yes	No	More than 3 hours	Less than 80	Vani
+9.0	21	Male	High school	Arts	Quiet room	Yes	Yes	More than 3 hours	Less than 80	Vijay
+8.0	20	Male	Under Graduated	Arts	Library	Yes	Yes	More than 1 hour	Less than 90	Aravind
+9.0	21	Male	Under Graduated	Engineering	Outdoors	Yes	Yes	More than 4 hours	Less than 70	Zilleti Zilla Raj
+7.0	21	Male	Post Graduated	Commerce	Quiet room	Yes	Yes	More than 2 hours	More than 90	Gopi
+6.0	21	Male	Under Graduated	Engineering	Group study	Yes	No	More than 2 hours	Less than 80	Hari
+9.0	21	Female	Under Graduated	Engineering	Library	Yes	Yes	More than 4 hours	Less than 80	Sai pallavi
+8.0	21	Female	Under Graduated	Commerce	Library	Yes	Yes	Less then 1 hour	Less than 70	Krithi shetty
+9.0	21	Male	High school	Engineering	Group study	Yes	No	More than 1 hour	Less than 80	A.sivanagaraju
+8.0	23	Female	Post Graduated	Medicine	Outdoors	Yes	Yes	More than 4 hours	Less than 90	Srilela
+8.0	19	Female	Under Graduated	Medicine	Quiet room	Yes	Yes	More than 4 hours	Less than 80	Ch.Mahalakshmi
+7.0	20	Female	Post Graduated	Arts	Quiet room	Yes	Yes	More than 1 hour	Less than 70	Anushka
+9.5	21	Male	Post Graduated	Commerce	Outdoors	Yes	Yes	More than 3 hours	Less than 90	G.Dhanesh
+9.0	44	Male	Under Graduated	Engineering	Group study	Yes	Yes	More than 1 hour	Less than 70	Prabhas
+8.6	21	Female	Post Graduated	Medicine	Library	Yes	Yes	More than 3 hours	Less than 70	A.Afreen
+7.6	22	Male	Post Graduated	Engineering		No	No	More than 3 hours	Less than 90	M.Shiva sankar
+8.3	18	Male	High school	Arts			No	More than 3 hours	Less than 80	C.Sai kunar
+9.0	69	Female	Others	Others	Others	Yes	Yes	More than 4 hours	Less than 70	Zilla Babu
+7.0	21	Male	Under Graduated	Engineering	Outdoors	Yes	Yes	More than 4 hours	More than 90	Ponnuru Babu
+8.5	20	Male	High school	Commerce	Quiet room	Yes	Yes	More than 2 hours	Less than 70	Jilleti jillaraj
+7.0	20	Female	Under Graduated	Engineering	Library	Yes	Yes	More than 3 hours	Less than 80	Jyoshmitha
+9.0	20	Male	Post Graduated	Commerce	Group study	Yes	No	More than 2 hours	Less than 90	Vinay
+8.0	21	Male	Under Graduated	Medicine	Outdoors	No	Yes	More than 3 hours	Less than 80	Leela
+9.0	25	Female	Post Graduated	Others	Quiet room	No	Yes	Less then 1 hour	More than 90	Gayathri
+6.0	26	Male	Post Graduated	Medicine	Group study	Yes	No	More than 4 hours	Less than 80	Mahesh
+8.0	19	Male	Under Graduated	Others	Quiet room	No	No	More than 1 hour	Less than 90	Mohan chandu
+7.9	19	Female	Under Graduated	Medicine		No	Yes	More than 2 hours	Less than 70	Lakshmi
+8.0	22	Female	High school	Others	Group study	No	No	More than 2 hours	Less than 80	Pandu
+7.0	30	Female	Post Graduated	Commerce	Library	Yes	Yes	More than 3 hours	Less than 80	B. lakshmi
+9.5	23	Male	Post Graduated	Engineering	Group study		Yes	Less then 1 hour	More than 90	Bhanu parakesh
+6.0	30	Female	Post Graduated	Arts	Outdoors	No	Yes	More than 2 hours	Less than 80	Rajini
+9.7	15	Male	High school	Others	Quiet room	Yes	Yes	More than 4 hours	More than 90	Chandra Sekhar
+8.5	16	Male	High school	Others	Outdoors		No	More than 4 hours	Less than 90	Anand babu
+8.0	35	Male	Post Graduated	Others	Others	No	Yes	More than 2 hours	Less than 80	Prakash rao
+8.0	22	Male	Under Graduated	Medicine	Group study	No	No	More than 1 hour	Less than 90	Chinnu
+8.3	14	Female	High school	Others			Yes	More than 1 hour	Less than 80	Snigdha
+8.0	19	Female	High school	Others	Outdoors	Yes	No	More than 2 hours	Less than 80	Vihaa
+9.0	20	Male	Under Graduated	Engineering	Outdoors	Yes	Yes	More than 3 hours	Less than 90	Vihan
+8.0	20	Female	Others	Medicine	Group study	Yes	No	More than 2 hours	More than 90	Jyoshna
+6.9	16	Male	Under Graduated	Others		Yes	No	More than 4 hours	Less than 80	Brama teja
+9.5	23	Male	Post Graduated	Medicine	Group study		No	More than 3 hours	More than 90	Madhu teja
